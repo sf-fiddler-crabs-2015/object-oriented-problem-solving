@@ -1,5 +1,9 @@
 ## Object Oriented Problem Solving
 
+### Archaeologoy
+
+[Self: The Movie](https://www.youtube.com/watch?v=Ox5P7QyL774)
+
 ### Vocab Quiz!
 - class
 - object
@@ -58,3 +62,7 @@ job.sign_up(volunteer)
 ### Changing Requirements
 
 Lynne now wants to be able to limit the number of volunteers for each shift, because some jobs and shifts are more popular than others.  How would you change the design to reflect this new reqiurement?  Which object should encapsulate this new information?  How should it be stored?  See if you can add this code on your own.
+
+### Resources
+
+- [Ruby 2 keyword arguments](http://robots.thoughtbot.com/ruby-2-keyword-arguments)
