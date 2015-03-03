@@ -1,8 +1,8 @@
 ## Object Oriented Problem Solving
 
-### Archaeologoy
+### History
 
-[Self: The Movie](https://www.youtube.com/watch?v=Ox5P7QyL774)
+[Smalltalk](http://en.wikipedia.org/wiki/PARC_(company))
 
 ### Vocab Quiz!
 - class
